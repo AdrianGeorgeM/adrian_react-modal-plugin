@@ -1,7 +1,6 @@
 {
-  "name": "react-modal-plugin",
+  "name": "@adrian_react-modal-plugin",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
