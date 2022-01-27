@@ -3,7 +3,7 @@ import {
   ModalContainer,
   ModalCloseButton,
   ModalTextButton,
-} from "./modalStyle";
+} from "./Style";
 import React, { useEffect } from "react";
 
 function Modal({
